@@ -14,3 +14,5 @@
 	* https://github.com/tqdm/tqdm
 * **VIDEO: How we teach computers to understand pictures | Fei Fei Li**
 	* https://www.youtube.com/watch?v=40riCqvRoMs&feature=youtu.be
+* **PAPER: RSS-Based Q-Learning for Indoor UAV Navigation**
+	* https://arxiv.org/pdf/1905.13406.pdf
