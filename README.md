@@ -1,6 +1,6 @@
 # Resources List
 
-# 2019.9.25
+# 9/25/2019
 
 https://github.com/benedekrozemberczki/awesome-graph-classification
 
