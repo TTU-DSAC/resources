@@ -3,6 +3,9 @@
 # 9/25/2019
 
 * **Awesome Graph Classification**
+    * A really good collection of graph classification methods, covering embedding, deep learning,   graph kernel and
+    factorization papers with reference implementations. It also has link to graph datasets.
+    It can be really good resource for anyone working in graphs.
 	* https://github.com/benedekrozemberczki/awesome-graph-classification
 * **TQDM - Python progress bar utility library**
 	* TQDM is an extremely simple to use progress bar library. Any python
