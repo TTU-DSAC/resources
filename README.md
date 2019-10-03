@@ -16,3 +16,16 @@
 	* https://www.youtube.com/watch?v=40riCqvRoMs&feature=youtu.be
 * **PAPER: RSS-Based Q-Learning for Indoor UAV Navigation**
 	* https://arxiv.org/pdf/1905.13406.pdf
+
+___ 
+
+# 10/03/2019  
+
+* **Paper With Codes** 
+    * A free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. 
+    * https://paperswithcode.com 
+    *[Twitter](https://twitter.com/paperswithcode)
+
+* **Distill — Latest articles about machine learning** 
+    * Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
+    * https://distill.pub
