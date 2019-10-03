@@ -1,5 +1,18 @@
 # Resources List
 
+# 10/03/2019  
+
+* **Paper With Codes** 
+    * A free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. 
+    * https://paperswithcode.com 
+    * [Twitter](https://twitter.com/paperswithcode)
+
+* **Distill — Latest articles about machine learning** 
+    * Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
+    * https://distill.pub
+
+
+    
 # 9/25/2019
 
 * **Awesome Graph Classification**
@@ -18,13 +31,3 @@
 	* https://arxiv.org/pdf/1905.13406.pdf
 
 
-# 10/03/2019  
-
-* **Paper With Codes** 
-    * A free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. 
-    * https://paperswithcode.com 
-    * [Twitter](https://twitter.com/paperswithcode)
-
-* **Distill — Latest articles about machine learning** 
-    * Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
-    * https://distill.pub
