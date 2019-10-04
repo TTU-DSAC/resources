@@ -8,6 +8,9 @@
     * [Twitter](https://twitter.com/paperswithcode)
 
 * **Distill — Latest articles about machine learning** 
+	* An online publication source with an emphasis on very clear, easy to follow, and
+	  frequently interactive works and explanations of important concepts in machine
+	  learning
     * Machine Learning Research Should Be Clear, Dynamic and Vivid. Distill Is Here to Help.
     * https://distill.pub
 
